@@ -11,4 +11,4 @@ Le CV numérique devra obligatoirement contenir les éléments suivants :
 - Le CV sera responsive. 
 
 **Attention** à la rigueur.   
-Vous ne pourrais soumettre qu’une fois votre CV numérique.
+Vous ne pourrez soumettre qu’une fois votre CV numérique.
