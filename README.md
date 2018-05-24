@@ -10,5 +10,5 @@ Le CV numérique devra obligatoirement contenir les éléments suivants :
 - Le CV numérique sera mis sur une page Github : https://pages.github.com/
 - Le CV sera responsive. 
 
-**Attention** à la rigueur.   
+**Attention** à la rigueur et à la sémantique.   
 Vous ne pourrez soumettre qu’une fois votre CV numérique.
