@@ -6,7 +6,7 @@ Il devra être disponible depuis une page Github : https://pages.github.com/
 
 Le CV numérique devra obligatoirement contenir les éléments suivants :
 - Un menu avec au minimum les liens suivants : Présentation, Compétences, Formation, Expériences professionnelles et Contact.
-- Au clic sur un onglet du menu les informations des autres onglets seront cachés.
+- Au clic sur un onglet du menu les informations des autres onglets seront cachées.
 - Pour les compétences des barres de progression devront être présentes.
 - Les ressources comme le CSS ou le Javascript devront être sur des pages à part.
 
